@@ -1,7 +1,7 @@
 
 ## Character & Description
 
-![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.]()
+![large letter K.](https://raw.githubusercontent.com/hruba/english-for-designers/main/01-character-description/K-02.png)
 
 *K*, Katerina Hruba, Designed in Adobe illustrator.
 
