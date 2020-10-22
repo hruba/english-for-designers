@@ -19,4 +19,4 @@ After I got inspired a little bit I had some vision of how my poster would look 
 ![sketch-03.](sketch-03.png)
 
 The final poster is, in my opinion, very easy to read and it is eye-catching. I found the data very interesting.
-![Mesta-EU.](Města-EU.png)
+![Města-EU.](Města-EU.png)
