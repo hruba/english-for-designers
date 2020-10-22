@@ -8,25 +8,25 @@ The first data that I came up with was about wind power turbines. The whole name
 
 After this first unsuccessful attempt, I found some data about graduates at Czech universities. Specifically, it was the number of graduates from state universities and the number of graduates from private universities and the difference between them in the years of 2010 and 2018. It was quite good data but I still could not imagine how I would design my poster with this data.
 
-![sketch-01.](sketch-01.jpg)
+![sketch-01.](./img/sketch-01.jpg)
 `Fisrt data sketch.`
 
 Finally, I found data that was clear, interesting, and easy to design. So I decided I would make my poster about Tourism in EU cities in the years 2012 and 2018.
 
-![sketch-02.](sketch-02.jpg)
+![sketch-02.](./img/sketch-02.jpg)
 `Second data sketch.`
 
 When I decided on the topic I needed to think about the design for a while. I did some research and found some inspiring infographic posters. 
 
-![inspiration-01.](inspiration-01.png)
+![inspiration-01.](./img/inspiration-01.png)
 `Inspiration-found on the internet.`
 
 After I got inspired a little bit I had some vision of how my poster would look like. I knew I wanted to do a simple infographic poster with some icons that would portray tourists. I did some sketches of my tourists and then I designed them in Adobe Illustrator. 
 
-![sketch-03.](sketch-03.jpg)
+![sketch-03.](./img/sketch-03.jpg)
 `Sketch of tourists.`
 
 The final poster is, in my opinion, very easy to read and it is eye-catching. I found the data very interesting.
 
-![Final-poster.](Final-poster.png)
+![Final-poster.](./img/Final-poster.png)
 `Final poster.`
