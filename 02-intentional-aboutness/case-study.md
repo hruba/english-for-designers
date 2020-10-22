@@ -7,12 +7,16 @@ First I had to find some interesting data which was the main problem. I started 
 The first data that I came up with was about wind power turbines. The whole name of the data pack was "Number of wind turbines in the 10 largest EU countries in 2017" but when I tried to make some sense out of all the data it was very unclear I was not sure how would I portray it for the people to understand. 
 
 After this first unsuccessful attempt, I found some data about graduates at Czech universities. Specifically, it was the number of graduates from state universities and the number of graduates from private universities and the difference between them in the years of 2010 and 2018. It was quite good data but I still could not imagine how I would design my poster with this data.
-(sketch-01.png)
+![sketch-01.](sketch-01.png)
+
 Finally, I found data that was clear, interesting, and easy to design. So I decided I would make my poster about Tourism in EU cities in the years 2012 and 2018.
-(sketch-02.png)
+![sketch-02.](sketch-02.png)
+
 When I decided on the topic I needed to think about the design for a while. I did some research and found some inspiring infographic posters. 
-(inspiration-01.png)
+![inspiration-01.](inspiration-01.png)
+
 After I got inspired a little bit I had some vision of how my poster would look like. I knew I wanted to do a simple infographic poster with some icons that would portray tourists. I did some sketches of my tourists and then I designed them in Adobe Illustrator. 
-(sketch-03.png)
+![sketch-03.](sketch-03.png)
+
 The final poster is, in my opinion, very easy to read and it is eye-catching. I found the data very interesting.
-(Města-EU.png)
+![Mesta-EU.](Mesta-EU.png)
