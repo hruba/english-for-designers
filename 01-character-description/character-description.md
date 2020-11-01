@@ -9,7 +9,7 @@
 
 **Alt text:** A white and yellow serif capital K on a dark background with a line in the middle dividing the two colors.
 
-- - -
+
 
 ## Character & Description-Initial work
 
