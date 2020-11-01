@@ -8,3 +8,7 @@
 - - -
 
 **Alt text:** A white and yellow serif capital K on a dark background with a line in the middle dividing the two colors.
+
+![large letter K.](innitial-uppercase-k-khruba.png)
+
+*K*, Initial version of letter K.
