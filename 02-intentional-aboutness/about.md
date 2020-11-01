@@ -1,5 +1,5 @@
 ## Katerina Hruba
 
-Beginning designer with a creative mind, sense of punctuality and strange sense of humour.
+Designer with a creative mind, sense of punctuality, and curious sense of humor.
 
-I consider myself to be an introvert with a little dip off drama queen especially when I am around my friends, also I speak fluently the language of sarcasm.
+I consider myself to be an introvert reserved with a touch of drama queen mixed in, especially when I’m around my friends.
