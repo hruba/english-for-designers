@@ -28,16 +28,20 @@ Also, I am capable of producing product pictures or lifestyle pictures for proff
 ## Experience:
 
 * **Wedding factory- June 2020-present** 
+
 Part-time wedding arranger and designer.Designing and arranging wedding venues. Responsible for decorations and design. Part-time coordinating weddings. Coordinating guests and everyone involved in the wedding.
 
 * **Magazine Šestka-January 2020-June 2020** 
+
 Internship-External designer. External designer for a magazine at Prague 6. Work involved designing posters and infographics for Prague 6.
 
 * **Swim&relax shop-January 2019-May 2019** 
+
 Part-time saleswoman. A part-time job at a shop with swimming equipment.
 Selling swimming equipment at Podolí swimming pool. Also included receiving goods, processing e-shop orders, and inventory counting.
 
 * **Sara MB-Summer 2017, Summer 2018, Summer 2019** 
+
 Lifeguard. Working at an outdoor swimming pool as a summer job. Included having a lifeguard course. 
 
 ## Languages:
