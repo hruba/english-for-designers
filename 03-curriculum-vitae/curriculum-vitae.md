@@ -12,12 +12,12 @@ I enjoy traveling and getting to know other cultures and people. During my high 
 
 * **VŠKK,Prague, 2018-Currently studying (3rd year)** 
 
-   * *Graphic and media design specialization. 
+   * Graphic and media design specialization. 
 A three-year study programme with bachelor degree. *
 
 * **GMVV, Prague, 2010- 2018** 
   
-   * *Eight-year high school specialized in languages and international relations. *
+   * Eight-year high school specialized in languages and international relations. *
   
   
 ## Skills: 
