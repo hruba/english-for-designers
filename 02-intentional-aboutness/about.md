@@ -1,5 +1,5 @@
 ## Katerina Hruba
 
-Designer with a creative mind, sense of punctuality, and curious sense of humor.
+Creative designer with sense of punctuality, and opened mind.
 
-I consider myself to be reserved with a touch of drama queen mixed in, especially especially when I'm with friends. Oh, and I also speak fluent sarcasm.
+Passionate about all forms of art but mostly about design and photography. I think of myself as a positive and communicative person with a sense of empathy. I enjoy working in a team and I am always excited to learn new things. I am a hard worker and I don’t like to do things at the last minute.
