@@ -52,11 +52,11 @@ Lifeguard. Working at an outdoor swimming pool as a summer job. Included having 
 
 Czech / native
 
-English / proficient, C1
+English / C1, proficient
 
-Spanish / Intermediate, B1
+Spanish / B1, intermediate
 
-French / beginner 
+French / A1, beginner 
 
 ## Contact:
 
