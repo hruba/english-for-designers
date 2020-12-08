@@ -1,6 +1,7 @@
 ## Writing Style
 
 Clear - The message of the article is very clear.
+
 Useful - The article can be useful to many designers that are afraid of copying.
 
 ## Voice
