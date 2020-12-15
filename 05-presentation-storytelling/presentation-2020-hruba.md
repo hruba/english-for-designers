@@ -54,9 +54,9 @@ But in the end, we did a poster and a table of our responses. In the table we pu
 
 The poster was based on the percentage evaluation of 4 basic answers to the questions in the survey and the overall temperament we got from the survey. We decided to use only our headshots for the poster because we feel most of our emotions are formed in our heads. Then we divided the headshots according to the percentage of our answers.
 
-![skica.](./img/skica.jpg)
+![skica.](./img/skica.JPG)
 
-`#1 sketch.
+`#1 sketch.`
 
 ![hlavy.](./img/hlavy.png)
 
