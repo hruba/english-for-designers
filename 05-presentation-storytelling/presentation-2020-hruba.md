@@ -1,4 +1,4 @@
-# Presentation - Storytelling 
+# Presentation ? 
 
 Hello,my name is Kateřina Hrubá and I am a graphic design student.  
 
@@ -70,5 +70,6 @@ Ultimately we gave a presentation of our final poster and we were met with posit
 `Our team (from left: Kateřina, Jana, Lída, Matěj).`
 
 So I think I eventually choose the right topic for my english class presentation andI enjoyed the trip to my past.
+
 Thank you for your attention.
 
