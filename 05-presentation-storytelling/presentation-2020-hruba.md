@@ -9,7 +9,8 @@ So to show you the whole picture first I should tell you that at the end of the 
 
 ![strnad.](./img/strnad.jpg)
 `Martin Strnad.`
-![hms-studio.](./img/hms-studio.jpg)
+
+![hms-studio.](./img/hms-studio)
 `Work of HMS-design studio.`
 
 
