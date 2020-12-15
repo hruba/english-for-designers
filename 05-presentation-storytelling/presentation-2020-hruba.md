@@ -58,7 +58,7 @@ The poster was based on the percentage evaluation of 4 basic answers to the ques
 
 `#1 sketch.
 
-![Hlavy.](./img/Hlavy.png)
+![hlavy.](./img/hlavy.png)
 
 `Our final poster.`
 
