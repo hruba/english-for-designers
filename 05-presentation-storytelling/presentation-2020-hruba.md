@@ -55,7 +55,7 @@ The poster was based on the percentage evaluation of 4 basic answers to the ques
 ## The Presentation
 Ultimately we gave a presentation of our final poster and we were met with positive reactions. They all liked our idea to cut the heads and also they thought it was a really interesting topic. We, as a group, were able to overcome the disappointment of rejecting the first idea and come up with something even better. We had really fun as a group doing this project and I think it was projected in our final work.
 
-![team.](./img/team.jpg)
+![team.](./img/team.jpeg)
 `Our team (from left: Kateřina, Jana, Lída, Matěj).
 
 So I think I eventually choose the right topic for my english class presentation andI enjoyed the trip to my past.
