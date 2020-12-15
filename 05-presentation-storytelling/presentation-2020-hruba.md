@@ -7,6 +7,12 @@ When we were given the assignment to do a presentation for our english class and
 ## The Final Project - Klauzury 
 So to show you the whole picture first I should tell you that at the end of the second semester every year we have one final project that our grade depends on. Last year the topic of this final project was infographics. This was a topic that was given to us by Martin Strnad who works in an HMS graphic design studio. He was also our consultant for this project. 
 
+![strnad.](./img/strnad.jpg)
+`Martin Strnad.`
+![hms-studio.](./img/hms-studio.jpg)
+`Work of HMS-design studio.`
+
+
 So right after we received the assignment we got divided into groups of four or five people. I was in a group with people that I knew from my classes. We all started brainstorming how to conceive this project. It was already during the pandemic so we had to figure it all out using zoom or other online communication channels. Sometimes it was pretty hectic.
 We wanted to create something that would be interesting for our poster but also for us to work on. Our group consisted of four people. Three girls and one boy and maybe even because of that our topic for the project was more emotional and psychological. 
 
