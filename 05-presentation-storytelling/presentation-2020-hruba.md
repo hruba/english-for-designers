@@ -35,28 +35,28 @@ After we had all our data the main problem was how we wanted it to illustrate it
 `inspiration #1 from pinterest.`
 
 ![inspiration.](./img/inspiration-2.JPG)
-`inspiration #2 from pinterest.
+`inspiration #2 from pinterest.`
 
 ![inspiration.](./img/inspiration-3.jpg)
-`inspiration #3 from pinterest.
+`inspiration #3 from pinterest.`
 
 But in the end, we did a poster and a table of our responses. In the table we put the questions and we used our headshots of different emotions as answers.
 
 ![table.](./img/table.png)
-`Our final table.
+`Our final table.`
 
 The poster was based on the percentage evaluation of 4 basic answers to the questions in the survey and the overall temperament we got from the survey. We decided to use only our headshots for the poster because we feel most of our emotions are formed in our heads. Then we divided the headshots according to the percentage of our answers.
 
 ![skica.](./img/skica.jpg)
 `#1 sketch.
 ![Hlavy.](./img/Hlavy.png)
-`Our final poster.
+`Our final poster.`
 
 ## The Presentation
 Ultimately we gave a presentation of our final poster and we were met with positive reactions. They all liked our idea to cut the heads and also they thought it was a really interesting topic. We, as a group, were able to overcome the disappointment of rejecting the first idea and come up with something even better. We had really fun as a group doing this project and I think it was projected in our final work.
 
 ![team.](./img/team.jpeg)
-`Our team (from left: Kateřina, Jana, Lída, Matěj).
+`Our team (from left: Kateřina, Jana, Lída, Matěj).`
 
 So I think I eventually choose the right topic for my english class presentation andI enjoyed the trip to my past.
 Thank you for your attention.
