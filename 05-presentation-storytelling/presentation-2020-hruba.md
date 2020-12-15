@@ -1,4 +1,4 @@
-# Presentation- Case study 
+# Presentation- Storytelling 
 
 Hello,my name is Kateřina Hrubá.
 
