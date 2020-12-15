@@ -33,8 +33,10 @@ After we had all our data the main problem was how we wanted it to illustrate it
 
 ![inspiration.](./img/inspiration-1.jpg)
 `inspiration #1 from pinterest.`
-![inspiration.](./img/inspiration-2.jpg)
+
+![inspiration.](./img/inspiration-2.JPG)
 `inspiration #2 from pinterest.
+
 ![inspiration.](./img/inspiration-3.jpg)
 `inspiration #3 from pinterest.
 
