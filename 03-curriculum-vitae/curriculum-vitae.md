@@ -64,6 +64,6 @@ French / A1, beginner
 
 katkahruba99@gmail.com
 
-You can view my my CV in pdf version here: [CV-hruba.](file:///Users/katerinahruba/Desktop/CV-hruba%20(1).pdf/)
+You can view my my CV in pdf version here: [CV-hruba.](https://github.com/hruba/english-for-designers/blob/main/03-curriculum-vitae/CV-hruba.pdf)
 
 
