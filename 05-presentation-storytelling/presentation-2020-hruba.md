@@ -73,5 +73,5 @@ So I think I eventually choose the right topic for my english class presentation
 
 Thank you for your attention.
 
-Here you can find pdf version of my presentation: [CV-hruba.](https://github.com/hruba/english-for-designers/blob/main/05-presentation-storytelling/Presentation.pdf)
+Here you can find pdf version of my presentation: [Final Presentation.](https://github.com/hruba/english-for-designers/blob/main/05-presentation-storytelling/Presentation.pdf)
 
