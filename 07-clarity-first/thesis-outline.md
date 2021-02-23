@@ -1,4 +1,4 @@
-# Corporate identity for a new jewelry brand
+# Corporate Identity For a New Jewelry Brand
 
 My thesis is about the corporate identity of a newly created jewelry brand. The client approached me with an offer of cooperation. The client was only interested in creating a logotype, however for my thesis i decided to do a whole identity.
 
