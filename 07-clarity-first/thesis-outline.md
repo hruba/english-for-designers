@@ -5,7 +5,7 @@ My thesis is about the corporate identity of a newly created jewelry brand. It d
 <details>
   <summary>Mind Map</summary>
 
-  ![Gray box placeholder image, for position only.](./img/placeholder.svg)
+  ![Gray box placeholder image, for position only.](./img/pthesis-mind-map.png)
 </details>
 
 ## Voice & Tone
