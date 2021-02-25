@@ -10,40 +10,33 @@ My thesis is about the corporate identity of a newly created jewelry brand. It d
 
 ## Voice & Tone
 
-- **Voice:** Human, confident, educated, and inspirational.
-- **Tone:** Formal (academic), but friendly, enthusiastic, and conversational.
+- **Voice:** personal, human, creative, and inspirational.
+- **Tone:** Formal (academic), but friendly.
 
 ## Outline
 
-1. Key point; aim for a single-sentence in 120 characters or less.
-2. Key point; aim for a single-sentence in 120 characters or less.
-3. Key point; aim for a single-sentence in 120 characters or less.
-4. Key point; aim for a single-sentence in 120 characters or less.
-5. Key point; aim for a single-sentence in 120 characters or less.
-6. Another key point?
-7. Too long, didn’t read?
+1. Establishing a new brand on the market.
+2. Creating whole visual identity from scratch.
+3. Cooperating with a very creative owner.
+4. Creating an appropriate logotype.
+5. Creating whole communication for a new brand.
 
-### Notes
 
-- …
-- …
-- …
 
 ## Keywords
 
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+- **Brand identity**
+  - The collection of all elements that a company creates to portray the right image to its consumer
+- **Visual identity**
+  - The visible elements of brand identity, like logo or typography.
+- **Bran communication**
+  - Combination od different elements used to communicate with the customer.
+- **Target audience**
+  - Specific group of people you want to target with your brand communication.
+
 
 ### References
 
-- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
-- [Reference](http://)
-- [Reference](http://)
+- VYSEKALOVÁ, Jitka, MIKEŠ, Jiří. Image a firemní identita. Praha: Grada publishing, 2009, ISBN 978-80-247-6730-7.
+- VACHUDA, Tomáš. Vstup do světa logotvorby. Knihy.cz, 2016. s. 7. ISBN 978-80-88061-52-6. 
+- [Corporate identity as an image building tool](https://unie-grafickeho-designu.cz/corporate-identity-jako-nastroj-budovani-image/#.YDdvexNKhQJ)
