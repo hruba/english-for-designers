@@ -29,7 +29,7 @@ My thesis is about the corporate identity of a newly created jewelry brand. It d
   - The collection of all elements that a company creates to portray the right image to its consumer
 - **Visual identity**
   - The visible elements of brand identity, like logo or typography.
-- **Bran communication**
+- **Marketing communication**
   - Combination od different elements used to communicate with the customer.
 - **Target audience**
   - Specific group of people you want to target with your brand communication.
