@@ -82,7 +82,7 @@ Then I focused on the website, newsletters, and Instagram feed because these are
 
 Last but not least I designed the packaging for the jewelry. For the small boxes for the jewelry, I used simple grey boxes that would come across as elegant but also not too much. On top of these boxes, I put the logo.
 
-![The small box.](./img/small_box.jpg)
+![The small box.](./img/small_box-34.png)
 
 I also did bigger boxes that would hold the small box and all the printed materiál that would go with the order. These boxes used the illustration according to the collection. They are simple and elegant and also respect the design systém.
 
