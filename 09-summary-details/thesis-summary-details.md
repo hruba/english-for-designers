@@ -35,11 +35,13 @@ It all started in June 2020 when I had to start thinking about my bachelor thesi
 
 `Me and my friend in High School.`
 
+
 So during the summer, we met a few times and we started to work on the brand. We did a lot of brainstorming and creative briefs. After we figured out the main values and communication we started to think about the logo and we created a mood board for the whole brand. 
 
 ![Moodboard for Michaela Lada Jewelry.](./img/moodboard.png)
 
 `Moodboard for Michaela Lada Jewelry.`
+
 
 My friend is a very creative person herself and she had some requirements regarding the logo design. She knew she wanted it to reflect her jewelry and wanted to combine the two main topics which are nature and the universe. So as I was working on some first logo sketches I really had to think about that. One of the things that I had to work with was the name of the brand. There were no doubts. That the brand will be named after my friend Michaela and she also wanted to use her middle name. So the first suggestion for the brand name was Lada Michaela Jewelry. But then we changed it to Michaela Lada Jewelry because her true name is Michaela Lada.
 
@@ -82,7 +84,7 @@ Because my friend wanted to make clear to her clients that her jewelry combines 
 
 The slogan is changing according to use. Sometimes it's connected to the collection for example: ,, In connection…with the universe“ and sometimes it just represents the values of the brand,, In connection…with yourself“.
 
-![Posters with slogan.](./img/posters.png)
+![Posters with slogan.](./img/posters-01.png)
 
 `Posters with slogan.`
 
@@ -90,7 +92,7 @@ When I finished the logo and we came up with the slogan I did some more design w
 
 I designed all the printed materials that my friend would need as a jewelry maker and seller. For example business card, certificate of authenticity, or a personal note that would give away with her jewelry. I chose to design these on handmade paper because for Michaela the handmade work is very important as all of her jewelry is purely handmade.
 
-![The printed materials for Michaela Lada jewelry.](./img/print.png)
+![The printed materials for Michaela Lada jewelry.](./img/print-27.png)
 
 `The printed materials for Michaela Lada jewelry.`
 
