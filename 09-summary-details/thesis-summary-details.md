@@ -31,7 +31,7 @@ My name is Kateřina Hrubá and the topic of my bachelor’s thesis is the corpo
 
 It all started in June 2020 when I had to start thinking about my bachelor thesis. At the same time my good friend from high school, Michaela, got her goldsmith certificate and wanted to start a new brand of luxury golden jewelry. She reached out to me with an offer of collaboration on her logo and the whole brand identity and I thought that it could be the perfect topic for my bachelor thesis.
 
-![Me and my friend in High School.](./img/misa.png)
+![Me and my friend in High School.](./img/misa.jpeg)
 
 So during the summer, we met a few times and we started to work on the brand. We did a lot of brainstorming and creative briefs. After we figured out the main values and communication we started to think about the logo and we created a mood board for the whole brand. 
 
@@ -90,7 +90,7 @@ I also did bigger boxes that would hold the small box and all the printed materi
 
 I had a bit of a problém with the shopping bags because I wanted them to be elegant and luxurious but at the same time very simple so that they would not steal all the attention. In the end, I chose simple small bags with ribbons and I put the main illustration on top of it with the slogan and typography logo. So if you look at the bag you might as well read it as,, In connection… (with) Michaela Lada jewelry“ which is true because every customer should feel connected to the jewelry and the brand itself.
 
-![The shopping bags.](./img/bag.png)
+![The shopping bags.](./img/bag.jpg)
 
 Overall I really enjoyed working on my bachelor thesis and I would consider it successful. The collaboration with an actual and very creative client enriched me a lot and I am proud of this project.
 
