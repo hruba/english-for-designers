@@ -1,6 +1,6 @@
 <!-- Add an *optional* hero image to provide visual context. -->
 
-![Write good Alt Text to describe images.](./img/thesis-abstract-hero.png)
+![Thesis hero image.](./img/thesis.png)
 
 # The Story Of My Bachelor Thesis
 
