@@ -33,6 +33,7 @@ It all started in June 2020 when I had to start thinking about my bachelor thesi
 
 
 `Me and my friend in High School.`
+
 ![Me and my friend in High School.](./img/misa.png)
 
 
@@ -41,6 +42,7 @@ So during the summer, we met a few times and we started to work on the brand. We
 
 
 `Moodboard for Michaela Lada Jewelry.`
+
 ![Moodboard for Michaela Lada Jewelry.](./img/moodboard.png)
 
 
