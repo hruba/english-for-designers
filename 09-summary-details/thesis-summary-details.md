@@ -92,7 +92,7 @@ When I finished the logo and we came up with the slogan I did some more design w
 
 I designed all the printed materials that my friend would need as a jewelry maker and seller. For example business card, certificate of authenticity, or a personal note that would give away with her jewelry. I chose to design these on handmade paper because for Michaela the handmade work is very important as all of her jewelry is purely handmade.
 
-![The printed materials for Michaela Lada jewelry.](./img/print-27.png)
+![The printed materials for Michaela Lada jewelry.](./img/print27.png)
 
 `The printed materials for Michaela Lada jewelry.`
 
