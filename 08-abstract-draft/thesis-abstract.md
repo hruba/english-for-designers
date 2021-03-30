@@ -1,7 +1,6 @@
 
 # Abstract Draft
 
-Abstract
 The topic of my bachelor's thesis is the corporate identity of a newly created brand on the market. It is a Czech brand of gold jewelry called Michael Lada Jewelry. The thesis is based on real cooperation with the client.
 
 In the theoretical part I describe and define the basic concepts that are related to corporate identity and how important they are in the creation of corporate identity. At the same time, I define the jewelry market in the Czech Republic and I did a detailed analysis of Czech and foreign jewelry brands with a similar merchandise.
