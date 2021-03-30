@@ -31,21 +31,15 @@ My name is Kateřina Hrubá and the topic of my bachelor’s thesis is the corpo
 
 It all started in June 2020 when I had to start thinking about my bachelor thesis. At the same time my good friend from high school, Michaela, got her goldsmith certificate and wanted to start a new brand of luxury golden jewelry. She reached out to me with an offer of collaboration on her logo and the whole brand identity and I thought that it could be the perfect topic for my bachelor thesis.
 
+![Me and my friend in High School.](./img/misa.png)
 
 `Me and my friend in High School.`
 
-![Me and my friend in High School.](./img/misa.png)
-
-
-
 So during the summer, we met a few times and we started to work on the brand. We did a lot of brainstorming and creative briefs. After we figured out the main values and communication we started to think about the logo and we created a mood board for the whole brand. 
-
-
-`Moodboard for Michaela Lada Jewelry.`
 
 ![Moodboard for Michaela Lada Jewelry.](./img/moodboard.png)
 
-
+`Moodboard for Michaela Lada Jewelry.`
 
 My friend is a very creative person herself and she had some requirements regarding the logo design. She knew she wanted it to reflect her jewelry and wanted to combine the two main topics which are nature and the universe. So as I was working on some first logo sketches I really had to think about that. One of the things that I had to work with was the name of the brand. There were no doubts. That the brand will be named after my friend Michaela and she also wanted to use her middle name. So the first suggestion for the brand name was Lada Michaela Jewelry. But then we changed it to Michaela Lada Jewelry because her true name is Michaela Lada.
 
