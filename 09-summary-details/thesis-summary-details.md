@@ -96,3 +96,5 @@ Overall I really enjoyed working on my bachelor thesis and I would consider it s
 
 Thank you for your attention and have a great day.
 <!-- Expanded article based on outline. -->
+
+![Thesis hero image.](./img/thesis.png)
