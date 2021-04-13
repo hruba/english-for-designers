@@ -33,7 +33,7 @@ It all started in June 2020 when I had to start thinking about my bachelor thesi
 
 ![Me and my friend in High School.](./img/misa.png)
 
-`Me and my friend in High School.`
+`Me and my friend in High School (From left: Michaela, me).`
 
 So during the summer, we met a few times and we started to work on the brand. We did a lot of brainstorming and creative briefs. After we figured out the main values and communication we started to think about the logo and we created a mood board for the whole brand. 
 
