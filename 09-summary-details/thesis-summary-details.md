@@ -122,8 +122,8 @@ Overall I really enjoyed working on my bachelor thesis and I would consider it s
 
 Thank you for your attention and have a great day.
 
-Here you can see my video presentation: 
-
+Here you can download and see my video presentation: 
+[Video presentation.](https://github.com/hruba/english-for-designers/blob/main/09-summary-details/anj%20(1).mp4)
 
   
 
