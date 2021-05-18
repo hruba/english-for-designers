@@ -123,8 +123,8 @@ Overall I really enjoyed working on my bachelor thesis and I would consider it s
 Thank you for your attention and have a great day.
 
 Here you can see my video presentation: 
-![Bollywood Spot logo on a white background.](anj (1).mp4)
-<video controls src="anj (1).mp4" width="100%">
+
+
   
 
 
