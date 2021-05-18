@@ -13,9 +13,9 @@
 
 ## Work-Semestr 2
 
-- [Summary details](09-summary-details/curriculum-vitae.md)
-- [Abstract draft](08-abstract-draft/case-study.md)
-- [Clarity First](07-clarity-first/character-description)
+- [Summary details](09-summary-details/thesis-summary-details.md)
+- [Abstract draft](08-abstract-draft/thesis-abstract.md)
+- [Clarity First](07-clarity-first/thesis-outline.md)
 
 - - -
 
