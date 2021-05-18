@@ -122,5 +122,8 @@ Overall I really enjoyed working on my bachelor thesis and I would consider it s
 
 Thank you for your attention and have a great day.
 
+Here you can see my video presentation: 
+<video controls src="anj (1).mp4" width="100%">
+
 
 ![Thesis hero image.](./img/thesis.png)
