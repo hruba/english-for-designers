@@ -2,7 +2,7 @@
 
 - [About](02-intentional-aboutness/about.md)
 
-## Work
+## Work-Semestr 1
 
 - [Semester takeaway](06-semester-takeaway/semester-takeways.md)
 - [Presentation](05-presentation-storytelling/presentation-2020-hruba.md)
@@ -11,6 +11,11 @@
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](01-character-description/character-description)
 
+## Work-Semestr 2
+
+- [Summary details](09-summary-details/curriculum-vitae.md)
+- [Abstract draft](08-abstract-draft/case-study.md)
+- [Clarity First](07-clarity-first/character-description)
 
 - - -
 
