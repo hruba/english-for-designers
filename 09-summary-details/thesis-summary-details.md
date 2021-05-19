@@ -127,13 +127,11 @@ Here you can see my video presentation:
 
 # Case Study
 
-![Bollywood Spot logo on a white background.](img/bollywood-spot-logo-white-bg-1280w.png)
+![Bollywood Spot logo on a white background.](img/bag.jpg)
 
-<video controls src="video/bollywood-spot.mp4" width="100%">
+<video controls src="Aj" width="100%">
 
-[Bollywood Spot video trailer.](https://jgagne.github.io/english-for-designers/02-intentional-aboutness/case-study)
-
-</video>
+[![Aj](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ)](https://drive.google.com/file/d/1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ/view "Aj")
   
 
 
