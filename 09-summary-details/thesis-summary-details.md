@@ -123,7 +123,7 @@ Overall I really enjoyed working on my bachelor thesis and I would consider it s
 Thank you for your attention and have a great day.
 
 Here you can see my video presentation: 
-[![Aj](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ)](https://drive.google.com/file/d/1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ/view "Aj")
+
 
 # Case Study
 
