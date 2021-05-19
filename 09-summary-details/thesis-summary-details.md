@@ -126,7 +126,7 @@ Thank you for your attention and have a great day.
 
 Here you can see my video presentation: 
 
-[![Aj](./img/video.png)](https://drive.google.com/file/d/1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ/view "Aj")
+[![Aj](https://res.cloudinary.com/marcomontalbano/image/upload/v1621450287/video_to_markdown/images/google-drive--1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1XsQ1g6vzvWSLE5L8P-Y56bNcOBVipdfZ/view?usp=sharing "Aj")
 
 
 ![Thesis hero image.](./img/thesis.png)
